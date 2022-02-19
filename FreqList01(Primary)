@@ -4,11 +4,16 @@ Server to Train:ID+5100
 System to Spycakes signal controller01:6101
 Spycakes GPS Sensor01(watarimae):6102
 Spycakes GPS Sensor02(Home):6103
+System to Spycakes signalcontroller02:6104
+System to Spycakes signalcontroller00:6105
 
 
 System to Camodo signal controller01:6201
 Camodo GPS Sensor01(watarimae):6202
 Camodo GPS Sensor02(Home):6203
+System to Camodo signalcontroller02:6204
+System to Camodo signalcontroller00:6205
+
 
 
 GPS Sensor Composite usage:
