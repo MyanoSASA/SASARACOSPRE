@@ -5,7 +5,4 @@ Number:
   1:sorted number
   2:distance from front running train
   3:signalstats(in case of sortID0 or manual control)
-  4:signal of SC
-  5:signal of CM
-  6:Platform No.
-  
+
