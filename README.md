@@ -3,7 +3,7 @@ SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spyc
 今までのシステムが区間ごとに車両を整理していたのに対し、このシステムでは各車と通信を行って車両ごとに管理を行います。
 ## 具体的には...?
 ![Stormworks 2022-02-20 22-52-56_Moment](https://user-images.githubusercontent.com/99597447/156719001-9582915d-edb4-4450-8bab-8b898c511da2.jpg)
-こういうかんじにつめれる（協力:yasu）
+こういうかんじにつめれる（協力:yasuさん）
 ## すごいとこ
 * ATACSなみにつめつめ運転できる。
 * 司令室のマイコンで一通りの計算をやってるので車上装置がとってもかるい上に前方互換性がある。
