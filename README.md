@@ -15,7 +15,7 @@ SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spyc
 ## 動かすのに必要なもの
 * 鉄道車両
 * 車上マイコン(https://steamcommunity.com/sharedfiles/filedetails/?id=2765291082)
-* サーバーアドオン(近日公開予定)
+* サーバーアドオン(https://steamcommunity.com/sharedfiles/filedetails/?id=2773257974)
 ## セットアップ
 ### 車上マイコン
 * マイコンキットの各コンポーネントをいい感じに配置してください。
