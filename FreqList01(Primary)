@@ -6,7 +6,8 @@ Spycakes GPS Sensor01(watarimae):6102
 Spycakes GPS Sensor02(Home):6103
 System to Spycakes signalcontroller02:6104(2ndleft)
 System to Spycakes signalcontroller00:6105(RESET)
-System to Spycakes singnalcontroller(1st):6106
+System to Spycakes signalcontroller(1st):6106
+System to Spycakes signalcontroller(Shuppatsu):6201
 
 
 System to Camodo signal controller01:6201(2ndright)
@@ -15,6 +16,12 @@ Camodo GPS Sensor02(Home):6203
 System to Camodo signalcontroller02:6204(2ndleft)
 System to Camodo signalcontroller00:6205(RESET)
 System to Camodo signalcontroller(1st):6206
+System to Camodo signalcontroller(Shuppatsu):6207
+
+
+System to Misumi signalcontroller01(North):6301
+System to Misumi signalcontroller02(East):6302
+System to Misumi signalcontroller03(West):6304
 
 Camodo station video xmit freq:902
 Terminal spycakes video xmit freq:901
