@@ -23,6 +23,8 @@ System to Misumi signalcontroller01(North):6301
 System to Misumi signalcontroller02(East):6302
 System to Misumi signalcontroller03(West):6303
 
+System to External system(Signalstats):6999
+
 Camodo station video xmit freq:902
 Terminal spycakes video xmit freq:901
 
