@@ -23,6 +23,18 @@ System to Misumi signalcontroller01(North):6301
 System to Misumi signalcontroller02(East):6302
 System to Misumi signalcontroller03(West):6303
 
+Station stats:
+SCTR1:7001
+SCTR2:7002
+SCTR3:7003
+SCTR4:7004
+
+CMTR1:7005
+CMTR2:7006
+CMTR3:7007
+CMTR4:7008
+
+
 System to External system(Signalstats):6999
 
 Camodo station video xmit freq:902
