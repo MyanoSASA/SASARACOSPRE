@@ -1,3 +1,6 @@
 Frequency list of train station passenger information system 
 Sensordata(For camodo):6401
 Sensordata(For Spycakes):6402
+
+Frequency list of Station Positioning System
+GPSSensordata(For Camodo):6501
