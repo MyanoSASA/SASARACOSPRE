@@ -35,7 +35,8 @@ CMTR3:7007
 CMTR4:7008
 
 
-System to External system(Signalstats):6999
+for External system(Signalstats):6999
+for External system(FreqLists):7010
 
 Camodo station video xmit freq:902
 Terminal spycakes video xmit freq:901
