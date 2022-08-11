@@ -5,3 +5,12 @@ Sensordata(For Spycakes):6402
 Frequency list of Station Positioning System
 GPSSensordata(For Camodo):6501
 GPSSensordata(For Spycakes):6502
+
+Frequency list of Operation adjustment system
+operation adjustment dataSC(ForCamodo):6551
+operation adjustment dataKO(ForCamodo):6552
+operation adjustment dataCM(ForCamodo):6553
+
+operation adjustment dataSC(ForSpycakes):6561
+operation adjustment dataKO(ForSpycakes):6562
+operation adjustment dataCM(ForSpycakes):6563
