@@ -11,7 +11,6 @@ SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spyc
 ## だめなとこ(言い訳付き)
 * 最大4編成までしか同時管理できない。(だってそもそも4編成以上も同時走行とかあんまないでしょ......)
 * たまに同期ずれする(これに関しては私は悪くない)
-* 運用に癖がある(これに関しても駅管理だからユルシテ....)
 ## 動かすのに必要なもの
 * 鉄道車両
 * 車上マイコン(https://steamcommunity.com/sharedfiles/filedetails/?id=2774126318)
@@ -46,6 +45,9 @@ SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spyc
 1.前を走行中の列車のSID(0の場合は前に列車なし)</br>
 2.前を走行中の列車までの距離もしくは終端駅の進入可能位置までの距離</br>
 このあともあったりするけどほぼ使用されてないです
+## 運用上の注意
+* 列車IDは１０００未満に設定してください。
+* 行き先IDは正しく設定してください。事故ります。
 ## お問い合わせ
 ついったかDiscordのDMに連絡ください
 ## 更新ログ(2022/05/25更新)
