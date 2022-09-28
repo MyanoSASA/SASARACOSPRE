@@ -46,7 +46,7 @@ SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spyc
 2.前を走行中の列車までの距離もしくは終端駅の進入可能位置までの距離</br>
 このあともあったりするけどほぼ使用されてないです
 ## 運用上の注意
-* 列車IDは１０００未満に設定してください。
+* 列車IDは1000未満に設定してください。
 * 行き先IDは正しく設定してください。事故ります。
 ## お問い合わせ
 ついったかDiscordのDMに連絡ください
