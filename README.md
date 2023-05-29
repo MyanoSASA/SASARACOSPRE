@@ -1,5 +1,5 @@
 # **SASARACOS**
-SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spycakes間の移動閉塞運転の実現を目指して開発されたシステムです。</br>
+SASARACOS(SASA RAilway COntrol System)はStormworks鉄道のCamodo~Terminal Spycakes間の移動閉塞運転の実現を目指して開発されたシステムです。<br>
 今までのシステムが区間ごとに車両を整理していたのに対し、このシステムでは各車と通信を行って車両ごとに管理を行います。
 ## 具体的には...?
 ![Stormworks 2022-02-20 22-52-56_Moment](https://user-images.githubusercontent.com/99597447/156719001-9582915d-edb4-4450-8bab-8b898c511da2.jpg)
